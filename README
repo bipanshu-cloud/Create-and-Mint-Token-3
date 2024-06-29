@@ -31,7 +31,15 @@ contract MyToken is ERC20 {
         _mint(to, amount);
     }
 
+
+
     function burn(uint256 amount) public {
         _burn(msg.sender, amount);
     }
 }
+
+
+AUTHORS
+BIPANSHU
+bipanshugarg683@gmail.com
+
