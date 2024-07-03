@@ -5,12 +5,12 @@ Upon deployment, the contract initializes by minting 1,000,000 tokens and assign
 includes functions to mint (mint) new tokens, restricted to only the owner of the contract, and to burn (burn) tokens, which any token holder can initiate to reduce their token balance. These 
 functionalities leverage the inherent security and interoperability of ERC20 tokens, making it suitable for various tokenization applications on the Ethereum blockchain.
 
-DESCRIPTION 
+*DESCRIPTION*
 
 The MyToken contract is a Solidity smart contract designed to deploy and manage an ERC20 token on the Ethereum blockchain. It extends the functionality of ERC20 tokens provided by the OpenZeppelin
 library, offering essential features for token creation, ownership management, and token transfers.
 
-GETTING STARTED 
+*GETTING STARTED* 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 // SPDX-License-Identifier: MIT
