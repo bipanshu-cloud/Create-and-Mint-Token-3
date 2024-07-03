@@ -1,4 +1,4 @@
-#*CREATE AND MINT TOKEN*
+# CREATE AND MINT TOKEN
 
 The contract MyToken inherits from the ERC20 contract, which is a standard implementation of ERC20 tokens provided by OpenZeppelin. It introduces a new token named "MyToken" with symbol "MTK".
 Upon deployment, the contract initializes by minting 1,000,000 tokens and assigning them to the deployer's address. The deployer is also designated as the owner of the contract. The contract 
