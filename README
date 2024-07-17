@@ -14,6 +14,16 @@ library, offering essential features for token creation, ownership management, a
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
+EXECUTING THE PROGRAM 
+
+How to run the program
+
+1] Open Remix IDE.
+2] Create a new file and paste the MyToken.sol contract code.
+3] Compile the contract.
+4] Interact with the deployed contract through the Remix interface.
+
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -43,4 +53,7 @@ contract MyToken is ERC20 {
 𝑨𝑼𝑻𝑯𝑶𝑹𝑺
 𝐁𝐈𝐏𝐀𝐍𝐒𝐇𝐔
 𝐛𝐢𝐩𝐚𝐧𝐬𝐡𝐮𝐠𝐚𝐫𝐠𝟔𝟖𝟑@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+
+License
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
