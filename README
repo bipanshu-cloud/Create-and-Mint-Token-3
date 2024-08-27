@@ -1,4 +1,4 @@
-𝑪𝑹𝑬𝑨𝑻𝑬 𝑨𝑵𝑫 𝑴𝑰𝑵𝑻 𝑻𝑶𝑲𝑬𝑵
+###𝑪𝑹𝑬𝑨𝑻𝑬 𝑨𝑵𝑫 𝑴𝑰𝑵𝑻 𝑻𝑶𝑲𝑬𝑵
 
 The contract MyToken inherits from the ERC20 contract, which is a standard implementation of ERC20 tokens provided by OpenZeppelin. It introduces a new token named
 "MyToken" with symbol "MTK".Upon deployment, the contract initializes by minting 1,000,000 tokens and assigning them to the deployer's address. The deployer is also
@@ -6,16 +6,16 @@ designated as the owner of the contract. The contract includes functions to mint
 tokens, which any token holder can initiate to reduce their token balance. These functionalities leverage the inherent security and interoperability of ERC20 tokens
 , making it suitable for various tokenization applications on the Ethereum blockchain.
 
-𝐃𝐄𝐒𝐂𝐑𝐈𝐏𝐓𝐈𝐎𝐍
+###𝐃𝐄𝐒𝐂𝐑𝐈𝐏𝐓𝐈𝐎𝐍
 
 The MyToken contract is a Solidity smart contract designed to deploy and manage an ERC20 token on the Ethereum blockchain. It extends the functionality of ERC20 
 tokens provided by the OpenZeppel in library, offering essential features for token creation, ownership management, and token transfers.
 
-𝐆𝐄𝐓𝐓𝐈𝐍𝐆 𝐒𝐓𝐀𝐑𝐓𝐄𝐃
+###𝐆𝐄𝐓𝐓𝐈𝐍𝐆 𝐒𝐓𝐀𝐑𝐓𝐄𝐃
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-EXECUTING THE PROGRAM 
+###EXECUTING THE PROGRAM 
 
 How to run the program
 
@@ -51,10 +51,10 @@ contract MyToken is ERC20 {
 }
 
 
-𝑨𝑼𝑻𝑯𝑶𝑹𝑺
+###𝑨𝑼𝑻𝑯𝑶𝑹𝑺
 𝐁𝐈𝐏𝐀𝐍𝐒𝐇𝐔
 𝐛𝐢𝐩𝐚𝐧𝐬𝐡𝐮𝐠𝐚𝐫𝐠𝟔𝟖𝟑@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
-License
+###License
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
