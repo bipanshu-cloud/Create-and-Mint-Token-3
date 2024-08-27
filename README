@@ -1,10 +1,9 @@
 ###𝑪𝑹𝑬𝑨𝑻𝑬 𝑨𝑵𝑫 𝑴𝑰𝑵𝑻 𝑻𝑶𝑲𝑬𝑵
 
-The contract MyToken inherits from the ERC20 contract, which is a standard implementation of ERC20 tokens provided by OpenZeppelin. It introduces a new token named
-"MyToken" with symbol "MTK".Upon deployment, the contract initializes by minting 1,000,000 tokens and assigning them to the deployer's address. The deployer is also
-designated as the owner of the contract. The contract includes functions to mint (mint) new tokens, restricted to only the owner of the contract, and to burn (burn)
-tokens, which any token holder can initiate to reduce their token balance. These functionalities leverage the inherent security and interoperability of ERC20 tokens
-, making it suitable for various tokenization applications on the Ethereum blockchain.
+The contract MyToken inherits from the ERC20 contract, which is a standard implementation of ERC20 tokens provided by OpenZeppelin. It introduces a new token named"MyToken" with symbol "MTK".Upon deployment, 
+the contract initializes by minting 1,000,000 tokens and assigning them to the deployer's address. The deployer is also designated as the owner of the contract. The contract includes functions to mint (mint) new 
+tokens, restricted to only the owner of the contract, and to burn (burn) tokens, which any token holder can initiate to reduce their token balance. These functionalities leverage the inherent security and
+interoperability of ERC20 tokens, making it suitable for various tokenization applications on the Ethereum blockchain.
 
 ###𝐃𝐄𝐒𝐂𝐑𝐈𝐏𝐓𝐈𝐎𝐍
 
